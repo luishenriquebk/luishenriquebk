@@ -1,16 +1,30 @@
-### Hi there 👋
 
-<!--
-**luishenriquebk/luishenriquebk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Olá, muito prazer! Eu sou o Luis Henrique. Sou um desenvolvedor front-end apaixonado por programação!
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mim:
+
+- 📚 Atualmente estou no 3º período de Engenharia de Sistemas na faculdade estadual de Montes Claros, MG.
+
+- ❤️ Sempre amei estudar, descobrir e entender a lógica de como as coisas funcionam na sua real essência. Procuro sempre me desafiar e traçar metas para me estimular a alcançar meus objetivos.
+
+- 🖥️ Atualmente, tenho como foco principal iniciar minha carreira na área de desenvolvimento web como front-end e futuramente me tornar um dev full stack.
+
+- 🗺️ Adoro conhecer novas pessoas, lugares, ideias, culturas e etc. Estou sempre aberto ao novo que possa me agregar alguma experiência profissional ou lição de vida.
+
+- 💵 Também gosto muito de investimentos, do mercado financeiro e de economia.
+
+<hr>
+
+## Tecnologias:
+
+<div style='display: inline_block'><br>
+    <img aling='center' alt='html5'src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'/>
+    <img aling='center' alt='html5'src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'/>
+    <img aling='center' alt='html5'src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'/>
+</div><br>
+
+![Luis Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=luishenriquebk&show_icons=true&theme=radical)
+
+
