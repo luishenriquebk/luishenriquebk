@@ -1,7 +1,6 @@
 
 ## 👋 Olá, muito prazer! Eu sou o Luis Henrique. Sou um desenvolvedor front-end apaixonado por programação!
 
-<hr>
 
 ## Sobre mim:
 
@@ -15,7 +14,6 @@
 
 - 💵 Também gosto muito de investimentos, do mercado financeiro e de economia.
 
-<hr>
 
 ## Tecnologias:
 
