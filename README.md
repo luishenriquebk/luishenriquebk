@@ -4,7 +4,8 @@
 
 ## Sobre mim:
 
-- 📚 Atualmente estou no 3º período de Engenharia de Sistemas na faculdade estadual de Montes Claros, MG.
+- 📚 Atualmente estou no 3º período de Engenharia de Sistemas na faculdade estadual de Montes Claros, MG. 
+Sendo assim tive meu primeiro contato com a programação com a linguagem C e desde então eu venho estudando e programando.
 
 - ❤️ Sempre amei estudar, descobrir e entender a lógica de como as coisas funcionam na sua real essência. Procuro sempre me desafiar e traçar metas para me estimular a alcançar meus objetivos.
 
