@@ -25,5 +25,4 @@ Sendo assim tive meu primeiro contato com a programação com a linguagem C e de
 </div><br>
 
 ![Luis Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=luishenriquebk&show_icons=true&theme=radical)
-
-
+![Luis Henrique GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=luishenriquebk&layout=compact&langs_count=16&theme=radical)
