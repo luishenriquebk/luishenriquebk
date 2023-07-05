@@ -21,7 +21,5 @@
     <img aling='center' alt='html5'src='https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white'/>
     <img aling='center' alt='html5'src='https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white'/>
     <img aling='center' alt='html5'src='https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white'/>
+    <img aling='center' alt='html5' src='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white'/>
 </div><br>
-
-![Luis Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=luishenriquebk&show_icons=true&theme=radical)
-![Luis Henrique GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=luishenriquebk&layout=compact&langs_count=16&theme=radical)
