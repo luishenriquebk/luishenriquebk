@@ -18,8 +18,8 @@
 ## Tecnologias:
 
 <div style='display: inline_block'><br>
-    <img aling='center' alt='html5'src='https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white'/>
-    <img aling='center' alt='html5'src='https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white'/>
+        <img aling='center' alt='html5'src='https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white'/>
+    <img aling='center' alt='html5'src='[https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)'/>
     <img aling='center' alt='html5'src='https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google sheets&logoColor=white'/>
     <img aling='center' alt='html5'src='https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white'/>    
     <img aling='center' alt='html5' src='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white'/>
