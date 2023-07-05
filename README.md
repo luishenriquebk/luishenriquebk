@@ -8,8 +8,6 @@
 
 - ❤️ Sempre amei estudar, descobrir e entender a lógica de como as coisas funcionam na sua real essência. Procuro sempre me desafiar e traçar metas para me estimular a alcançar meus objetivos.
 
-- 🖥️ Atualmente, tenho como foco principal iniciar minha carreira na área de desenvolvimento web como front-end e futuramente me tornar um dev full stack.
-
 - 🗺️ Adoro conhecer novas pessoas, lugares, ideias, culturas e etc. Estou sempre aberto ao novo que possa me agregar alguma experiência profissional ou lição de vida.
 
 - 💵 Também gosto muito de investimentos, do mercado financeiro e de economia.
