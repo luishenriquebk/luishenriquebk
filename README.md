@@ -20,7 +20,7 @@
 <div style='display: inline_block'><br>
     <img aling='center' alt='html5'src='https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white'/>
     <img aling='center' alt='html5'src='https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white'/>
-    <img aling='center' alt='html5'src='https://img.shields.io/badge/Power Bi-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white'/>
+    <img aling='center' alt='html5'src='https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white'/>
 </div><br>
 
 ![Luis Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=luishenriquebk&show_icons=true&theme=radical)
