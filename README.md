@@ -1,5 +1,5 @@
 
-## 👋 Olá, muito prazer! Eu sou o Luis Henrique. Sou um desenvolvedor front-end apaixonado por programação!
+## 👋 Olá, muito prazer! Eu sou o Luis Henrique.
 
 
 ## Sobre mim:
