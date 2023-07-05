@@ -4,7 +4,7 @@
 
 ## Sobre mim:
 
-- 📚 Atualmente estou no 2º no curso de Arquitetura de Dados.
+- 📚 Atualmente estou no 2º período no curso de Arquitetura de Dados Tecnólogo.
 
 - ❤️ Sempre amei estudar, descobrir e entender a lógica de como as coisas funcionam na sua real essência. Procuro sempre me desafiar e traçar metas para me estimular a alcançar meus objetivos.
 
