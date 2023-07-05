@@ -4,8 +4,7 @@
 
 ## Sobre mim:
 
-- 📚 Atualmente estou no 3º período de Engenharia de Sistemas na faculdade estadual de Montes Claros, MG. 
-Sendo assim tive meu primeiro contato com a programação com a linguagem C e desde então eu venho estudando e programando.
+- 📚 Atualmente estou no 2º no curso de Arquitetura de Dados.
 
 - ❤️ Sempre amei estudar, descobrir e entender a lógica de como as coisas funcionam na sua real essência. Procuro sempre me desafiar e traçar metas para me estimular a alcançar meus objetivos.
 
@@ -19,7 +18,7 @@ Sendo assim tive meu primeiro contato com a programação com a linguagem C e de
 ## Tecnologias:
 
 <div style='display: inline_block'><br>
-    <img aling='center' alt='html5'src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'/>
+    <img aling='center' alt='html5'src='https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white'/>
     <img aling='center' alt='html5'src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'/>
     <img aling='center' alt='html5'src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'/>
 </div><br>
